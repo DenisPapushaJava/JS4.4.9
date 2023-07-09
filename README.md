@@ -4,6 +4,7 @@ js 4.4.9 Postman
   <img src="https://github.com/DenisPapushaJava/JS4.4.9/blob/main/create%20user%20(post).jpg?raw=true">
   <figcaption>Регистрируемся (Registration)</figcaption>
 </figure>
+<hr>
 <figure>
   <img src="https://github.com/DenisPapushaJava/JS4.4.9/blob/main/loginIn%20(post).jpg?raw=true">
    <figcaption>Логинимся (Authentication)</figcaption>
